@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CoffeePlease</string>
+    <string name="welcome">Welcome!</string>
+    <string name="Coffee_Please">Coffee Please</string>
+    <string name="main_header">Everyday we produce good, honest, fresh coffee and food.</string>
+    <string name="coffee">Coffee</string>
+    <string name="hot_ice"><![CDATA[Hot & Ice]]></string>
+    <string name="bread_sandwitch"><![CDATA[Bread & Sandwitch]]></string>
+    <string name="breakfast">Breakfast</string>
+</resources>
